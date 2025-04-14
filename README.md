@@ -58,8 +58,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: shubhamrajkashyap09@gmail.com
+- **Website**: [My Website](https://portfolio-website-omega-jade.vercel.app/)
 
 ---
 
