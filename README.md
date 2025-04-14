@@ -19,8 +19,9 @@ Check out our app in action! Watch the video below to see how the Cred Repayment
 
 <!-- [![Watch the video](https://img.youtube.com/vi/1mo0Srbwlgje8zkWA1ZygVC2ug09N4nBG/0.jpg)](https://drive.google.com/file/d/1mo0Srbwlgje8zkWA1ZygVC2ug09N4nBG/view?usp=drive_link) -->
 
-[![Watch the video]]
-https://drive.google.com/file/d/1mo0Srbwlgje8zkWA1ZygVC2ug09N4nBG/view?usp=drive_link
+[![Watch the demo]]
+
+https://github.com/user-attachments/assets/e278bc4d-c679-4d03-97e4-38648332ef66
 
 ## Download the App
 
